@@ -1,0 +1,14 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# RAG logic and Machine Learning
+langchain
+chromadb-client
+sentence-transformers
+pypdf
+torch
+transformers
+
+# Utils
+python-dotenv

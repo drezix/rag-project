@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+__pycache__/
+
+# System files
+.DS_Store
+
+# Environment variables
+.env
+
+# Documents(optional, if they are large)
+# data/
