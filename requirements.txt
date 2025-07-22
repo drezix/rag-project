@@ -3,8 +3,10 @@ fastapi
 uvicorn[standard]
 
 # RAG logic and Machine Learning
+langchain-core
+langchain-community
 langchain
-chromadb-client
+chromadb
 sentence-transformers
 pypdf
 torch

@@ -6,7 +6,10 @@ __pycache__/
 .DS_Store
 
 # Environment variables
-.env
+.env    
+
+# Banco de dados vetorial gerado
+db/
 
 # Documents(optional, if they are large)
 # data/
