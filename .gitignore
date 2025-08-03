@@ -10,6 +10,9 @@ __pycache__/
 
 # Banco de dados vetorial gerado
 db/
+db_titles/
+db_content/
 
 # Documents(optional, if they are large)
 # data/
+evaluation_results.log
