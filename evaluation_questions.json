@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Qual foi o primeiro romance de Clarice Lispector?",
+    "expected_text": "Perto do Coração Selvagem"
+  },
+  {
+    "question": "Onde Clarice Lispector nasceu?",
+    "expected_text": "Ucrânia"
+  },
+  {
+    "question": "Qual prêmio seu primeiro livro recebeu?",
+    "expected_text": "Prêmio Graça Aranha"
+  },
+  {
+    "question": "Qual o nome do livro sobre a vida de Laura?",
+    "expected_text": "A Vida Íntima de Laura"
+  },
+  {
+    "question": "O que caracteriza o estilo narrativo de Clarice, segundo Alfredo Bosi?",
+    "expected_text": "fluxo de consciência"
+  }
+]
